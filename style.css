@@ -1,5 +1,5 @@
 body{
-  background-image: url("/Images/BG.jpg");
+  background-image: url("Images/BG.jpg");
   background-size: cover;
   min-height: 100vh;
   color: aliceblue;
